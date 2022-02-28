@@ -5,7 +5,7 @@ I am giving you some python code that implements a simple echo server.  When a c
 
 ## Setup 
 
-Clone this repo on your VM  [P Campbell / Sockets · GitLab](https://gitlab.com/campbe13/sockets-lab/), you may need to install git  and python3.   The general instructions for running the code and connecting to it with netcat (nc) are in the README.md  Make sure you can run the server & connect to it before you go to the next step.
+Clone this repo on your VM  [P Campbell / Sockets ·Github](https://github.com/campbe13/sockets-lab/), you may need to install git  and python3.   The general instructions for running the code and connecting to it with netcat (nc) are in the README.md  Make sure you can run the server & connect to it before you go to the next step.
 You can run netcat on your windows desktop if you load MobaXterm and start a local terminal.
 
 ## Lab exercise
