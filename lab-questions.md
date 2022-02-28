@@ -3,12 +3,9 @@ The [google doc](https://docs.google.com/document/d/12N2yYORlikxGNZVFl1lPnkZsG-s
 
 I am giving you some python code that implements a simple echo server.  When a client is connected to the server whatever data it sends will be echoed back to the client.    You will run the code and use netcat (nc) to act as a client, and also change the code to try a few things, see the instructions in the [README](README.md)
 
-## setup
-Clone this repo on your VM, you may need to install git and python3.  The general instructions
-for running the code and connecting to the  echo server with netcat (nc) are in the README.md.  Make sure you can run the server and connect to it before you go to the next step.
 ## Setup 
 
-Clone this repo on your VM  [P Campbell / Sockets · GitLab](https://gitlab.com/campbe13/sockets-lab/), you may need to install git first.   The general instructions for running the code and connecting to it with netcat are in the README.md  Make sure you can run the server & connect to it before you go to the next step.
+Clone this repo on your VM  [P Campbell / Sockets · GitLab](https://gitlab.com/campbe13/sockets-lab/), you may need to install git  and python3.   The general instructions for running the code and connecting to it with netcat (nc) are in the README.md  Make sure you can run the server & connect to it before you go to the next step.
 You can run netcat on your windows desktop if you load MobaXterm and start a local terminal.
 
 ## Lab exercise
