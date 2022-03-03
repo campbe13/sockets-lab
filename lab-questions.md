@@ -1,6 +1,6 @@
 # Lab Questions
-The [google doc](https://docs.google.com/document/d/12N2yYORlikxGNZVFl1lPnkZsG-sZ3rRYh3WN0cb1HZI/edit) version
-
+See the [google doc](https://docs.google.com/document/d/12N2yYORlikxGNZVFl1lPnkZsG-sZ3rRYh3WN0cb1HZI/edit) for the latest verison of questions
+<!--
 I am giving you some python code that implements a simple echo server.  When a client is connected to the server whatever data it sends will be echoed back to the client.    You will run the code and use netcat (nc) to act as a client, and also change the code to try a few things, see the instructions in the [README](README.md)
 
 ## Setup 
@@ -58,3 +58,4 @@ Copy the code to server4.py, change the port, choose a port in the range 8000-89
 4. Can you talk to the server from your desktop, using the IP address of your VM? Try the access  with each port. Why or Why not?    (Use nc on MobaXterm local terminal)
 5. Ask another student to talk to server4 from their VM, can you connect using the IP address of your VM? Why or Why not?
 6. Bonus: What would happen if you used the same port as server3 and your VM's IP address, try to run them at the same time, ex server5.
+-->
